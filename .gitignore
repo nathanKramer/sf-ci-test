@@ -8,3 +8,4 @@ debug/
 *.sublime-workspace
 *.log
 *.sh
+node_modules/
