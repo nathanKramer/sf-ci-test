@@ -19,6 +19,7 @@
   "homepage": "https://github.com/nathanKramer/sf-ci-test#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-ant-sfdc": "^1.2.0"
+    "grunt-ant-sfdc": "^1.2.0",
+    "grunt-cli": "^0.1.13"
   }
 }
