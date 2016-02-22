@@ -13,3 +13,12 @@ Test:
 
 Deploy (on commit to develop)
 `grunt antdeploy:staging`
+
+----------------
+
+To make a similar setup:
+
+1. Steal `gruntfile.js`
+2. `npm init` # Make a package.json
+3. `npm install grunt grunt-cli grunt-ant-sfdc --save-dev`
+4. Configure Codeship similarly to above
